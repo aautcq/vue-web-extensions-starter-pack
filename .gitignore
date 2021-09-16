@@ -1,0 +1,17 @@
+.DS_Store
+package-lock.json
+dist/
+dist.crx
+node_modules/
+.env.production
+.env.development
+key.pem
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
