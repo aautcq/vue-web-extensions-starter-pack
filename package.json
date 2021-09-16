@@ -3,11 +3,11 @@
   "version": "0.1.0",
   "description": "Chrome extension with Manifest V3 and VueJS 3.2 for the popup",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/#readme",
+  "homepage": "https://github.com/aautcq/vue-web-extensions-starter-pack.git#readme",
   "author": "Adrien Autricque <aautricque@talentview.fr>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/git"
+    "url": "git+https://github.com/aautcq/vue-web-extensions-starter-pack.git"
   },
   "keywords": [
     "chrome extension",

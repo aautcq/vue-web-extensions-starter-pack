@@ -13,7 +13,7 @@ You will need the following things properly installed on your computer:
 
 ## Installation
 
-* `git clone <>`
+* `git clone https://github.com/aautcq/vue-web-extensions-starter-pack.git`
 * change into the new directory
 * `npm install`
 * Follow the instructions in the `update-manifest.js` file to keep a constant extension id in development and production
